@@ -127,7 +127,7 @@ public class Movie {
                 "",
                 90,
                 6.6
-                ));
+        ));
         movies.add(new Movie(
                 null,
                 "Avatar",
